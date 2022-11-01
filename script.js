@@ -1,6 +1,6 @@
 var a = prompt("Enter UserName");
 var b = prompt("Enter password");
-if (a == "Koly" && b == "05.11.1998") {
+if (a == "Tamu" && b == "02.11.1998") {
 	window.location.href = "start.html";
 }
 else {
